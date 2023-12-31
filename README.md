@@ -5,9 +5,13 @@ In this project, I used Django Rest Framework for api calls and performe CURD op
 
 ## Running the project
 
-make sure you have `Django` and `djangorestframework` installed in your system. Then run 
+
 `Django Version: 5.0` 
 `djangorestframework Version: 3.14.0`
+
+
+make sure you have `Django` and `djangorestframework` installed in your system. Then run 
+
 ```bash 
 python manage.py runserver
 ```
